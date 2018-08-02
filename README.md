@@ -83,9 +83,6 @@
 
 
 
-
-
-
 @media (min-device-width: 526px) and (max-device-width: 767px) {  
 
 .icono_caja_de_texto_espacio .agregar_icono { height: 25px!important; width: 80px!important; margin-left: 0px!important; }
@@ -127,7 +124,6 @@ select { width: 332px !important; font-size: 20px!important; height: 42px;line-h
 
 
 
-
    
 /* --------- Reportes -------- */
 #ctl00_MainContent_reportViewer_ctl04_ctl00, 
@@ -139,7 +135,6 @@ select { width: 332px !important; font-size: 20px!important; height: 42px;line-h
     border-radius: 70px !important;
     background-position: 16px 7px !important;
 }
-
 
 .menu_flotante {width:160px; display:inline-block; height:20px; padding: 10px 0px 10px 24px; color:#ffffff!important; float:right; 
                 -webkit-transition: 0.2s ease-out; -moz-transition: 0.2s ease-out; -o-transition: 0.2s ease-out; transition: 0.2s ease-out;}
@@ -156,7 +151,6 @@ select { width: 332px !important; font-size: 20px!important; height: 42px;line-h
 
 .alinear_izquierda  { margin-top: -22px; margin-bottom: 15px; margin-left:150px;}
 .alinear_derecha  { margin-top: -22px; margin-bottom: 15px; margin-right:140px;}
-
 
 .tabs input[type=radio] {position: absolute;top: -9999px;left: -9999px;}
 .tabs {width: 100%;float: none;list-style: none;position: relative;padding: 0;margin: 25px auto;}
@@ -220,7 +214,6 @@ left: 0;box-sizing: border-box;-webkit-animation-duration: 0.5s;-o-animation-dur
 .ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {	border-left-width: 0;}
 .ui-datepicker-multi .ui-datepicker-buttonpane {	clear: left;}
 .ui-datepicker-row-break {	clear: both;	width: 100%;	font-size: 0;}
-
 
 /* RTL support */
 .ui-datepicker-rtl {	direction: rtl;}
