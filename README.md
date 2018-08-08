@@ -14,6 +14,8 @@
 .texto_normal7, .texto_normal12, .texto_normal, .texto_normal6, .texto_normal8 { font-size: 25px!important; line-height: 1.5;}
 }
 
+
+
 @media (max-device-width: 375px)   {
 .agregar_icono { height: 20px; padding: 8px 10px; font-size: 18px; width:64px;}  
 .select5 { width: 90px !important; padding-top: 4px; font-size: 24px !important; line-height: 30px;height: 45px;}  
@@ -83,6 +85,9 @@
 
 
 
+
+
+
 @media (min-device-width: 526px) and (max-device-width: 767px) {  
 
 .icono_caja_de_texto_espacio .agregar_icono { height: 25px!important; width: 80px!important; margin-left: 0px!important; }
@@ -124,6 +129,7 @@ select { width: 332px !important; font-size: 20px!important; height: 42px;line-h
 
 
 
+
    
 /* --------- Reportes -------- */
 #ctl00_MainContent_reportViewer_ctl04_ctl00, 
@@ -135,6 +141,7 @@ select { width: 332px !important; font-size: 20px!important; height: 42px;line-h
     border-radius: 70px !important;
     background-position: 16px 7px !important;
 }
+
 
 .menu_flotante {width:160px; display:inline-block; height:20px; padding: 10px 0px 10px 24px; color:#ffffff!important; float:right; 
                 -webkit-transition: 0.2s ease-out; -moz-transition: 0.2s ease-out; -o-transition: 0.2s ease-out; transition: 0.2s ease-out;}
@@ -151,6 +158,7 @@ select { width: 332px !important; font-size: 20px!important; height: 42px;line-h
 
 .alinear_izquierda  { margin-top: -22px; margin-bottom: 15px; margin-left:150px;}
 .alinear_derecha  { margin-top: -22px; margin-bottom: 15px; margin-right:140px;}
+
 
 .tabs input[type=radio] {position: absolute;top: -9999px;left: -9999px;}
 .tabs {width: 100%;float: none;list-style: none;position: relative;padding: 0;margin: 25px auto;}
@@ -214,6 +222,7 @@ left: 0;box-sizing: border-box;-webkit-animation-duration: 0.5s;-o-animation-dur
 .ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {	border-left-width: 0;}
 .ui-datepicker-multi .ui-datepicker-buttonpane {	clear: left;}
 .ui-datepicker-row-break {	clear: both;	width: 100%;	font-size: 0;}
+
 
 /* RTL support */
 .ui-datepicker-rtl {	direction: rtl;}
@@ -1135,7 +1144,7 @@ footer { text-align: center; font-size: 12px; height: 100px; line-height: 40px; 
 .hide-side-content footer { margin: 0; border-left: none; margin-top: -100px; margin-bottom: 52px;}
 
 
-.subir_salir { margin-top: 34px!important;}
+.subir_salir { margin-top: -6px;}
 
 
 /* Sticky Sidebar */
@@ -3725,7 +3734,7 @@ header .menu_desplegable { margin-top:35px!important;}
 
 
 .mostrar_en_tablet{ visibility: hidden; display: none;}
-.arriba{ margin-top: -16px;}
+.arriba{ margin-top: -22px;}
 
 
 @media (max-width: 1020px) {
@@ -4505,7 +4514,7 @@ tile_menu_tablet {  height: 123px !important;}
 .menu-interior { height: 100px !important;}
 .margin_top_tablet_carrito {  top: 48px !important; right:50px !important;}
 .ocultar_en_tablet2 {  visibility: hidden; display: none;}
-.arriba{ margin-top: -5px !important;}
+.arriba{ margin-top: -95px !important;}
 .boton_paises { padding: 25px 4px 6px 40px!important; width: 100px!important;}
 .boton_idiomas { padding: 25px 4px 6px 40px!important; width: 100px!important;}
 .boton_empresas { padding: 25px 4px 6px 40px!important; width: 100px!important;}
