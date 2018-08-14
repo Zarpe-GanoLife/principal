@@ -29,6 +29,8 @@
 .select5 { width: 90px !important; padding-top: 4px; font-size: 26px !important; line-height: 30px;height: 45px;}  
 .caja_de_texto_altura { height: 25px !important;padding-top: 10px !important;}
 
+.campo_texto_select_persona_buscador option { font-size: 12px !important; } 
+
 .select5 option { font-size: 11px !important;  } 
 .icono_caja_de_texto_espacio { margin-left: 50px;} 
 .margen_hr { margin:25px!important;  }
@@ -4643,7 +4645,7 @@ select { -webkit-appearance: menulist !important;  }
 .campo_texto_busqueda_principal { width: 320px !important; margin-top:70px !important; background-image: url(../img/icono_busqueda5_movil.png); background-repeat: no-repeat; background-position: 0px 2px; 
     padding-left:75px !important; position: absolute; left:-240px; height: 40px !important ; }
 .campo_texto_busqueda {width: 240px !important; margin-top:20px !important; background-image: url(../img/icono_busqueda5_movil.png); background-repeat: no-repeat; background-position: 14px 7px; 
-    padding-left:100px !important; margin-left:-20px !important; font-size: 24px!important; }
+    padding-left:100px !important; margin-left:-20px !important; font-size: 30px!important; }
 .campo_texto_fecha2 {width: 240px !important; margin-top:20px !important; background-image: url(../img/icono_fecha5_2_movil.png); background-repeat: no-repeat; background-position: 14px 7px; 
     padding-left:100px !important; margin-left:20px !important; font-size: 24px!important; }
 .campo_texto_busqueda_producto {width: 240px !important; margin-top:20px !important; background-image: url(../img/icono_busqueda5_movil.png); background-repeat: no-repeat; background-position: 14px 7px; 
@@ -4955,8 +4957,8 @@ select { -webkit-appearance: menulist !important;  }
     background-image: url(../img/vacio.png); background-repeat: no-repeat; background-position: 2px 8px ; width:280px !important; background-color: #f9f9f8; height:76px !important;line-height:12px; font-size: 22px!important;
 }
 .campo_texto_select_persona_buscador {
-    -webkit-border-radius: 50px !important; -moz-border-radius: 50px !important; border-radius: 50px !important;padding-left:78px !important; padding-right:30px !important; border: 1px solid #ccc; display:inline-block; text-align:left;
-     background-image: url(../img/vacio.png);background-repeat:no-repeat;background-position: 2px 8px;width:370px !important; background-color: #f9f9f8; height:76px !important;line-height:12px; font-size: 22px!important; margin-left:18px;
+    -webkit-border-radius: 50px !important; -moz-border-radius: 50px !important; border-radius: 50px !important;padding-left:28px !important; padding-right:30px !important; border: 1px solid #ccc; display:inline-block; text-align:left;
+     background-image: url(../img/vacio.png);background-repeat:no-repeat;background-position: 2px 8px;width:370px !important; background-color: #f9f9f8; height:76px !important;line-height:12px; font-size: 30px!important; margin-left:18px;
 }
 .campo_texto_select_idioma {
     -webkit-border-radius: 50px !important; -moz-border-radius: 50px !important; border-radius: 50px !important;padding-left:78px !important; padding-right:30px !important; border: 1px solid #ccc; display:inline-block; text-align:left;
@@ -5350,7 +5352,7 @@ header { height: 240px ; background-color: #fff; }
    
 .etiqueta_naranja_fijo { background-color: #ffa60a; color: #ffffff; border: 1px solid #ffa60a; border-radius: 5px !important; font-size: 19px; padding: 5px 23px !important; font-weight: bold; line-height: 34px; }  
 .etiqueta_naranja2 { color: #FFFFFF !important; width: 280px !important; font-weight: bold;    background: #27c266 !important; border: #ffffff 0px solid !important; border-radius: 5px; padding: 10px !important; }      
-.etiqueta_naranja_busqueda {background-color:#ffa60a;border:0px solid #fff !important;color:#fff;padding:28px 20px 28px 20px;border-radius:150px !important; width:200px !important; font-size: 26px; margin-top: 16px; }
+.etiqueta_naranja_busqueda {background-color:#ffa60a;border:0px solid #fff !important;color:#fff;padding:28px 20px 28px 20px;border-radius:150px !important; width:200px !important; font-size: 30px; margin-top: 16px; }
 .etiqueta_naranja_busqueda_xl {background-color:#ffa60a;border:0px solid #fff !important;color: #fff;padding: 28px 20px 28px 20px;border-radius:150px !important;width:300px !important; font-size: 22px; margin-top: 16px; }
 .etiqueta_naranja_grande3 , .etiqueta_naranja_grande { font-size: 32px!important; padding: 28px 20px 28px 20px;width:280px !important;}
 .margen_abajo  {margin-bottom: 120px !important;}
