@@ -85,10 +85,14 @@
 
 
 
-
+@media (min-device-width: 426px) and (max-device-width: 525px) { 
+.campo_texto_select_persona_buscador option { font-size: 13px !important; } 
+}
 
 
 @media (min-device-width: 526px) and (max-device-width: 767px) {  
+
+.campo_texto_select_persona_buscador option { font-size: 13px !important; } 
 
 .icono_caja_de_texto_espacio .agregar_icono { height: 25px!important; width: 80px!important; margin-left: 0px!important; }
 select { width: 332px !important; font-size: 20px!important; height: 42px;line-height: 70px !important;}
@@ -4405,7 +4409,7 @@ tile_menu_tablet {  height: 123px !important;}
     line-height:12px; font-size: 14px !important;
 }
 .campo_texto_select_persona_buscador {
-    -webkit-border-radius: 50px !important; -moz-border-radius: 50px !important; border-radius: 50px !important;padding-left:44px !important; padding-right:15px !important; border: 1px solid #ccc; display:inline-block; text-align:left;
+    -webkit-border-radius: 50px !important; -moz-border-radius: 50px !important; border-radius: 50px !important;padding-left:16px !important; padding-right:15px !important; border: 1px solid #ccc; display:inline-block; text-align:left;
     background-image: url(../img/vacio.png); background-repeat: no-repeat; background-position: 15px 9px ; width:184px!important; background-color: #f9f9f8; height:44px !important; 
     line-height:12px; font-size: 14px!important; 
 }
