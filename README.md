@@ -5177,7 +5177,7 @@ header.menu .menu_desplegable { margin-top: 170px!important;}
 .icono_adaptable_pais_s { width: 40px !important; height: 28px !important;  margin-left: 10px!important;margin-top:-2px;}
 .icono_adaptable_empresa_s { width: 50px !important; height: 35px !important; margin-left: 10px!important;margin-top:-2px;}
 
-header { height: 240px ; background-color: #fff; }
+header { height: 210px ; background-color: #fff; }
 .menu-interior {  height: 189px ; background-color: #fff; }
 
 .tabs_lado_izquierda>.menu_con_tabs{ float:left;margin-right:19px;border-right:1px solid #ddd;  width:100%; }
